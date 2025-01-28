@@ -8,7 +8,6 @@ public class Aula2 {
         // Durante a operação, 'numByte' é promovido para int antes do cálculo.
         int resultadoInt = numByte + 5;
         System.out.println("Resultado (byte -> int): " + resultadoInt);
-
         // Exemplo 2: Promoção de int para long
         // Variável 'numInt' é do tipo int, que suporta valores maiores que byte/short.
         int numInt = 20;

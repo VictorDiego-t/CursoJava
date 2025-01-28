@@ -1,0 +1,11 @@
+Crie uma classe chamada CalculadoraAreaRetangulo.
+
+Dentro da classe, declare duas variáveis do tipo double: largura e altura.
+
+Atribua valores às variáveis largura e altura (por exemplo, 5.0 e 3.0, respectivamente).
+
+Calcule a área do retângulo usando a fórmula:
+
+Área = largura × altura
+
+Exiba o resultado na tela com uma mensagem informativa.

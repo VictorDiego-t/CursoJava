@@ -1,3 +1,5 @@
+package Aulas;
+
 public class Aula2 {
     public static void main(String[] args) {
         // Exemplo 1: Promoção de byte para int

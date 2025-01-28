@@ -1,3 +1,5 @@
+package Aulas;
+
 public class Aula1 {
     public static void main(String[] args) {
         // Declaração de uma variável do tipo byte para armazenar a idade.

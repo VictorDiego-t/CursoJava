@@ -5,7 +5,6 @@ public class Aula5 {
         //operadores aritméticos
         // + - * / %
         // % é o operador de módulo, que retorna o resto da divisão
-
         int a = 10;
         int b = 2;
 

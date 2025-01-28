@@ -56,7 +56,6 @@ public class Aula1 {
 
         // Impressão do status de estudante no console.
         System.out.println("É estudante? " + estudante);
-
         // Impressão da inicial do nome no console.
         System.out.println("Inicial do nome: " + inicialNome);
     }

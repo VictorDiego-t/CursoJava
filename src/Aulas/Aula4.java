@@ -3,7 +3,6 @@ package Aulas;
 public class Aula4 {
     public static void main(String[] args) {
         // Exemplo de Identificadores Válidos:
-
         // Um identificador pode conter letras (a-z ou A-Z).
         String nome = "João"; // Válido: começa com uma letra.
         System.out.println("Nome: " + nome);

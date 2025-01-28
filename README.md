@@ -13,8 +13,6 @@ O objetivo deste repositório é documentar minha jornada de aprendizado e acomp
 
 ## Estrutura do Repositório
 - **/src**: Contém o código-fonte das aulas e exemplos práticos.
-- **/anotacoes**: Minhas anotações pessoais sobre os conteúdos aprendidos.
-- **/projetos**: Pequenos projetos desenvolvidos para praticar os conceitos.
 
 ## Como Este Repositório Funciona
 Cada commit representa o progresso de uma aula ou atividade. As mensagens de commit descrevem brevemente o que foi abordado ou feito em cada etapa.

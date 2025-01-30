@@ -17,7 +17,8 @@ public class Aula7 {
         do{
             System.out.println(k);
             k++;
+
         }while(k < 10);
     }
-
+    
 }

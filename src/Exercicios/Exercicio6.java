@@ -9,6 +9,7 @@ public class Exercicio6 {
             case "abril","junho","stembro","novembro" -> "30 dias";
             case "fevereiro" -> "o número de dias é 28 (considerando um ano não bissexto).";
             default -> "Mês desconhecido";
+            
         };
         System.out.println(diasm);
     }

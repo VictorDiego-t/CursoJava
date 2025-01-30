@@ -20,5 +20,5 @@ public class Aula7 {
 
         }while(k < 10);
     }
-    
+
 }

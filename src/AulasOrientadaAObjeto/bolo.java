@@ -15,6 +15,7 @@ public class bolo {
         boloDeBaunilha.quantidadeDeAcucar = 150;
 
         System.out.println("Quantidade de açucar no bolo de choclate é: " + boloDeChocolate.quantidadeDeAcucar);
+        
         System.out.println("Quantidade de açucar no bolo de choclate é: " + boloDeBaunilha.quantidadeDeAcucar);
 
 

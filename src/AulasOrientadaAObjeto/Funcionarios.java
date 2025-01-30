@@ -8,17 +8,30 @@ public class Funcionarios {
 
     public static void main(String[] args){
 
-        Funcionarios funcionario = new Funcionarios();
+        //Criação do Funcionario 1
+        Funcionarios funcionario1 = new Funcionarios();
 
-        funcionario.nome = "Victor";
-        funcionario.cargo = "Developer";
-        funcionario.idade = "22";
+        funcionario1.nome = "Victor";
+        funcionario1.cargo = "Developer";
+        funcionario1.idade = "22";
 
-        System.out.println("Nome = " + funcionario.nome);
+        System.out.println("Nome = " + funcionario1.nome);
+        System.out.println("Cargo = " + funcionario1.cargo);
+        System.out.println("Idade = " + funcionario1.idade);
 
-        System.out.println("Cargo = " + funcionario.cargo);
+        System.out.println(); // Pula linha
 
-        System.out.println("Idade = " + funcionario.idade);
+        //Criação do Funcionario2
+
+        Funcionarios funcionario2 = new Funcionarios();
+
+        funcionario2.nome = "Diogo";
+        funcionario2.cargo = "P&D";
+        funcionario2.idade = "21";
+
+        System.out.println("Nome = " + funcionario2.nome);
+        System.out.println("Cargo = " + funcionario2.cargo);
+        System.out.println("Idade = " + funcionario2.idade);
 
 
     }

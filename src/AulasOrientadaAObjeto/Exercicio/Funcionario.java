@@ -16,5 +16,9 @@ public class Funcionario {
         return "Nome: " + nome + " Salario: " + salario;
     }
 
+    public void aumentarSalario(double aumento){
+        salario += aumento;
+    }
 
 }
+
